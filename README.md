@@ -1,8 +1,6 @@
 
 <h1> CCNA Super Lab </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this CCNA Super Lab, we will construct a comprehensive network environment with a structured approach, designed to cover a range of critical networking concepts and technologies. The lab will consist of multiple steps, each focusing on different aspects of networking and gradually building a sophisticated network infrastructure
 <br />
